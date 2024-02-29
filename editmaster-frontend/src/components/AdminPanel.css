@@ -1,0 +1,19 @@
+/* AdminPanel.css */
+.admin-panel {
+    text-align: center;
+}
+
+.admin-panel table {
+    border-collapse: collapse;
+    width: 80%; /* Adjust as needed */
+    margin: 0 auto;
+}
+
+.admin-panel th, .admin-panel td {
+    border: 1px solid #ddd; /* Border lines */
+    padding: 8px;
+}
+
+.admin-panel th {
+    background-color: #f2f2f2; /* Header background color */
+}
